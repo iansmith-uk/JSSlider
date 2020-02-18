@@ -1,0 +1,2 @@
+# JSSlider
+ Simple Javascript Slider
